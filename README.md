@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-tentacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Noche de tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tentacion/) |
+| **Get License** | [Secure Licensing Rights for Noche de tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tentacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `12d281f00d5d82395231d82b2c2da975021f75d0ea1c81af17cf709b7bd2b9a9` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

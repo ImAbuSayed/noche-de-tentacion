@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de tentación
+
+This log tracks the cryptographic history and versioning for the song **Noche de tentación** (noche-de-tentacion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:41:14.742414 | `v1` | `12d281f00d5d82395231d82b2c2da975021f75d0ea1c81af17cf709b7bd2b9a9` | `ae6af762b64e73af58bc25921d34bd41f58d54b60653c5c2d77dbbc25100e4e5` | `2026-06-17_noche-de-tentacion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
