@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-tentacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Noche de tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tentacion/) |
+| **Get License** | [Obtain a Music License for Noche de tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-tentacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna es testigo de nuestra tentación,
+> Tus labios me llaman, me llevan a otra dimensión,
+> Nena, vente conmigo, que el deseo no pide perdón,
+> Perdidos en Madrid, tú y yo en la misma habitación.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
